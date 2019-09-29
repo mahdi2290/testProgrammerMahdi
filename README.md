@@ -10,8 +10,11 @@
 <p>Project pembuatan API untuk Auth di Laravel dengan menggunakan JWT.</p>
 
 <h2>Setup</h2>
-<p>Clone to local repository using Github<br/>
-Git Clone git@github.com:mahdi2290/testProgrammerMahdi.git
-```shell </p>
+<p>1. Clone to local repository using Github<br/><br/>
+<i>Git Clone git@github.com:mahdi2290/testProgrammerMahdi.git</i>
+</p>
+
+<p>2. Direct to project <br/><br/>
+<i>cd project_name</i></p>
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
